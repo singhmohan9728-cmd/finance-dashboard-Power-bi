@@ -1,0 +1,9 @@
+DepartmentID,Department,Division
+D01,Sales,Revenue
+D02,Marketing,Revenue
+D03,Operations,Delivery
+D04,Human Resources,Support
+D05,Information Technology,Support
+D06,Finance,Support
+D07,R&D,Delivery
+D08,Customer Support,Delivery

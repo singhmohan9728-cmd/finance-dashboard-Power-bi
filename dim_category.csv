@@ -1,0 +1,11 @@
+CategoryID,Category,CategoryType
+C01,Salaries & Wages,Fixed
+C02,Travel & Conveyance,Variable
+C03,Software & Subscriptions,Fixed
+C04,Office Supplies,Variable
+C05,Marketing Campaigns,Variable
+C06,Training & Development,Variable
+C07,Utilities & Rent,Fixed
+C08,Consulting & Professional Fees,Variable
+C09,Equipment & Hardware,Capex
+C10,Miscellaneous,Variable
